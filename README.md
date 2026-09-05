@@ -1,6 +1,6 @@
 # WLED-Zero-S3
 
-A complete, self contained hardware and firmware project for a custom addressable LED lighting system: a custom **ESP32-S3 controller motherboard**, three **WS2812B light stick PCBs** that daisy chain together, and a tailored build of **[WLED](https://github.com/wled/WLED) v16.0.1** configured for the exact hardware. This repository contains everything needed to reproduce the system from end to end: Gerber and drill files, pick and place data, bills of materials, 3D STEP models, the full patched firmware source tree, and a prebuilt single file flash image.
+A complete, self-contained hardware and firmware project for a custom addressable LED lighting system: a custom **ESP32-S3 controller motherboard**, three **WS2812B light stick PCBs** that daisy chain together, and a tailored build of **[WLED](https://github.com/wled/WLED) v16.0.1** configured for the exact hardware. This repository contains everything needed to reproduce the system from end to end: Gerber and drill files, pick and place data, bills of materials, 3D STEP models, the full patched firmware source tree, and a prebuilt single file flash image.
 
 ---
 
